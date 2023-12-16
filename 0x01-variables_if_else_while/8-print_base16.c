@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * main block
- * Desc: print all base 10 single digit numbers.
+ * * main - This is the main block
+ * * Description: print all base 10 single digit numbers.
  * Return: 0
  */
 int main(void)

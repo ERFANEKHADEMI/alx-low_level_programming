@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - create 2 pairs of non-repeating numbers
+ * * main - This is the main block
+ * * Description: create 2 pairs of non-repeating numbers
  * * Return: 0
  */
 int main(void)

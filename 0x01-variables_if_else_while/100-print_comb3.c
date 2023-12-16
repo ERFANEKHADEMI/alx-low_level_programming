@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * This is the main block
- * Description: print all single digit, base 100 numbers
+ * * main - This is the main block
+ * * Description: print all single digit, base 100 numbers
  * Return: 0
  */
 int main(void)

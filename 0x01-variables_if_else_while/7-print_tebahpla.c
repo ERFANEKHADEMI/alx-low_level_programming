@@ -2,8 +2,9 @@
 #include <stdio.h>
 #include <time.h>
 /**
- * main block
- * Desc: print all base 10 single digit numbers.
+ * * main - This is the main block
+ * * Description: print all base 10 single digit numbers.
+ * * Followed by a new line
  * Return: 0
  */
 int main(void)
