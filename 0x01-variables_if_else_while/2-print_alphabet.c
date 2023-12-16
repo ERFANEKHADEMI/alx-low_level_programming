@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- *  * main - main block
- *   * Description: Get a number and check its last digit, compare it with 5
+ *  * main block
+ *  * Desc: Get a number and check its last digit, compare it with 5
  *    * Return: 0
  */
 int main(void)
