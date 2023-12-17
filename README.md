@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Low Level Programming
+This is an intro to Low Level Programming
