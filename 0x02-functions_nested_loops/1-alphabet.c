@@ -1,17 +1,20 @@
-#include "stdio.h"
+#include "main.h"
+
 /**
- * Main - This is the main function
- * Description: - Printing the alphabet in lowercase
+ * main - Check description
+ * Description: It prints the word _putchar, followed by a new line.
  * Return: 0.
  */
-void print_alphabet(void)
+int main(void)
 {
-	char c;
+	char word[8] = "_putchar";
+	int i;
 
-	for (c = 'a'; c <= 'z'; c++)
+	for (i = 0; i < 8; i++)
 	{
-		_putchar(c);
+		_putchar(word[i]);
 	}
-
 	_putchar('\n');
+
+	return (0);
 }
