@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Maina Func
+ * main - Main Func
  * Description: Prints the word _putchar, followed by a new line.
  * Return: 0.
  */

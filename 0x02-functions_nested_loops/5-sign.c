@@ -1,7 +1,7 @@
 #include "stdio.h"
 /**
- * Main - Main func
- * Description - prints the sign of a number
+ * Main - This is the main function
+ * Description: - prints the sign of a number 
  * @n: interger to be tested
  * Return: 1, 0, -1
  */
