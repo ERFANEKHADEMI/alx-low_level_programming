@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * puts2 - Prints every line
+ * puts2 - Prints every other line
  * of a string
- * @s: Points to string
+ * @str: Points to string
  * Return: return void
  */
 
