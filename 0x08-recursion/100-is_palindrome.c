@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * last_index - function returns the last index of a string 
+ * last_index - function returns the last index of a string
  * @s: string pointer
  * Return: int
  */

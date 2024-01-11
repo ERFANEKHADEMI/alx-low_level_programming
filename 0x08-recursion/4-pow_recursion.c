@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _pow_recursion - The function will search 
+ * _pow_recursion - The function will search
  * a string for any of a set of bytes.
  * @x: the base
  * @y: the exponent
